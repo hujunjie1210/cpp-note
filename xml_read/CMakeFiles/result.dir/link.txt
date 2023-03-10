@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/result.dir/main.cpp.o CMakeFiles/result.dir/MoonsSfwFileLoader.cpp.o CMakeFiles/result.dir/tinystr.cpp.o CMakeFiles/result.dir/tinyxml.cpp.o CMakeFiles/result.dir/tinyxmlerror.cpp.o CMakeFiles/result.dir/tinyxmlparser.cpp.o  -o bin/result 

@@ -1,0 +1,3 @@
+/mnt/d/hjj_private_workspace/cpp-note/xml_read/CMakeFiles/rebuild_cache.dir
+/mnt/d/hjj_private_workspace/cpp-note/xml_read/CMakeFiles/edit_cache.dir
+/mnt/d/hjj_private_workspace/cpp-note/xml_read/CMakeFiles/result.dir
